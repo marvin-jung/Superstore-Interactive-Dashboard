@@ -129,15 +129,11 @@ When we classify our sales by shipping mode, we can see that standard class ship
 
 ## Sales Analysis grouped by Sub-Category
 
-<figure>
 <img src="images/Sub-Category1.png">
-<figcaption align="center"> < Filter and Highlight by Technology Goods > </figcaption>
-</figure>
+<center> < Filter and Highlight by Technology Goods > </center>
 
-<figure>
 <img src="images/Sub-Category2.png">
-<figcaption align="center"> < Filter and Highlight by Furniture and Office Supplies Goods > </figcaption>
-</figure>
+<center> < Filter and Highlight by Furniture and Office Supplies Goods > </center>
 
 ### Top sales goods and its margin ratio
 
@@ -260,10 +256,8 @@ In the office supplies group, storage and binders were made high sales. Storage 
 
 ## Superstore Location Analysis
 
-<figure>
 <img src="images/Superstore-Location.png">
-<figcaption align="center"> < Sales Concentration in the United States > </figcaption>
-</figure>
+<center> < Sales Concentration in the United States > </center>
 
 
 ### Overall Sales by Regions
