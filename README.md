@@ -131,8 +131,8 @@ When we classify our sales by shipping mode, we can see that standard class ship
 
 <img src="images/Sub-Category1.png">
 <center> < Filter and Highlight by Technology Goods > </center>
-<br>
-<img src="images/Sub-Category2.png">
+
+<br><img src="images/Sub-Category2.png">
 <center> < Filter and Highlight by Furniture and Office Supplies Goods > </center>
 
 ### Top sales goods and its margin ratio
