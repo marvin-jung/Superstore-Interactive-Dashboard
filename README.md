@@ -257,7 +257,7 @@ In the office supplies group, storage and binders were made high sales. Storage 
 ## Superstore Location Analysis
 
 <img src="images/Superstore-Location.png">
-<center> < Sales Concentration in the United States > </center>
+<center> < Sales Distribution in the United States > </center>
 
 
 ### Overall Sales by Regions
